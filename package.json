@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "hint": "7.1.8"
+  },
+  "scripts": {
+    "hint": "hint sobre.html"
+  }
+
+}
